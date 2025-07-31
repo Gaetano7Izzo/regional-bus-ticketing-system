@@ -59,7 +59,6 @@ Oppure, da Eclipse:
   - Vai in main/Main.java
   - Clic destro → Run As → Java Application
 
-
-
+Autori: Gaetano Emanuele Izzo, Eugenio Iandoli Ultimo Aggiornamento: Giugno 2025
 
 
